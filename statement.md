@@ -4,8 +4,8 @@
 
 ## Document Scanner Using OCR
 
-**Name:** Harshit Poonia  
-**Registration No.:** 24BAI10966  
+**Name:** Harshit
+**Registration No.:** 24BAI10967
 **Domain:** Computer Vision
 
 ## Problem Statement
