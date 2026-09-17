@@ -80,7 +80,7 @@ Document Scanner Using OCR demonstrates how image processing and OCR can be comb
 
 Declaration
 
-I, Harshit Poonia, Registration No. 24BAI10966, submit this project as an academic Computer Vision project titled Document Scanner Using OCR.
+I, Harshit, Registration No. 24BAI10967, submit this project as an academic Computer Vision project titled Document Scanner Using OCR.
 
-Name: Harshit Poonia
-Registration No.: 24BAI10966
+Name: Harshit
+Registration No.: 24BAI10967
